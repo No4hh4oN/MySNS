@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+C:\workspace_3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2169483747.index
+\MySNS2\src\main\java
+C:\workspace_3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1868173374.index
+\MySNS\src\main\java
+C:\workspace_3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\541302540.index
+\MySNS\src\main\java
